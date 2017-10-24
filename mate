@@ -1,0 +1,18 @@
+puts 24 * 365
+puts "HORAS"
+puts "------------"
+
+#CUANTOS MINUTOS HAY EN UNA DECADA?
+puts  (((60 * 24) * 365) * 10)
+puts "MINUTOS"
+puts "------------"
+
+# CUANTOS SEGUNDO DE EDAD TIENES?
+puts ((((60 * 60) * 24) * 365) * 24)
+puts "SEGUNDOS"
+puts "------------"
+
+# SI TIENES 1031 MILLONES DE SEGUNDOS DE EDAD, CUANTOS AÑOS?
+puts ((((1031000000 / 60) / 60) / 24) / 365)
+puts "AÑOS"
+puts "------------"
